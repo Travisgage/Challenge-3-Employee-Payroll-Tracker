@@ -2,7 +2,7 @@
 
 ## Description
 
-The following is a simple application for user to track employee information within a company, including employee name (first and last) and salary.  The application allows for the easy creation of new employee 'profiles' and stores them as js objects within an array.
+The following is a simple application for user to track employee information within a company, including employee name (first and last), and salary.  The application allows for the easy creation of new employee 'profiles' and stores them as js objects within an array.
 
 ## Installation
 
@@ -14,9 +14,9 @@ Upon navigating to the URL of the deployed application, the user is first greete
 
 Click [here](https://travisgage.github.io/Challenge-3-Employee-Payroll-Tracker/) for deployed application.
 
-![Screenshot of application](assets/images/payroll-screenshot.png)
+![Screenshot of application](./assets/images/Employee%20tracker%20sceenshot%202.png)
 
-![Screenshot of application console view](assets/images/payroll-console.png)
+![Screenshot of application with console](./assets/images/Employee%20tracker%20sceenshot%201.png)
 
 ## Credits
 
